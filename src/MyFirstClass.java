@@ -46,7 +46,7 @@ public class MyFirstClass {
         System.out.println("Cia yra statinis metodas");
     }
 }
-// GIT komandos
+// GIT komandos // sveiki
 // git init
 // git add .
 // git commit -m "TEKSTAS"
