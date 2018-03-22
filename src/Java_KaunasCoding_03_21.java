@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
+// 1 uzdavinys lengvesnis
 public class Java_KaunasCoding_03_21 {
-    // 1 uzdavinys lengvesnis
+
     // ctrl + alt + l - formatuoja koda
     public static void main(String[] args){
         // sis objektas padeda nuskaitineti is konsoles

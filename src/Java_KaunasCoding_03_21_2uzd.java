@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// 2uzduotis lengvesne
 public class Java_KaunasCoding_03_21_2uzd {
 
     // 100 prilyginmas kaip MAX_NUMB
